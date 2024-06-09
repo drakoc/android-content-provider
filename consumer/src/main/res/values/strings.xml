@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Consumer</string>
+    <string name="refresh">Refresh</string>
+    <string name="current_time">Current time</string>
+    <string name="cursor_null_or_empty">Cursor null or empty.</string>
+    <string name="column_not_found_in_cursor">The column \"%1$s\" not found in the cursor.</string>
+    <string name="title">Time provided from the Provider app.</string>
+</resources>
